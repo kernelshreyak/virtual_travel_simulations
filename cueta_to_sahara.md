@@ -38,7 +38,13 @@ The Google Maps link above is the source of truth for the overall route. The pla
 | Sidi Khaled | Continue south through Algeria |
 | Marhoum | Overnight stop after the long gaps between stops; buy clothes at Boutique Djoumana and arrange assistance for the onward journey |
 | El Bayadh | Stay at Hôtel Nadjem; spend one or two days planning and reconnoitring before continuing |
-| Béni Abbès | Proposed next destination; the group is discussing it because it is a detour from the original route |
+| El Bayadh to Aïn Sefra | Egypt team joins in El Bayadh; have breakfast at Patisserie Bergame, then continue on N47 with brief stops at CP5R+R5 Cafe in Aïn El Orak and Anaconda in Chellala |
+| Chellala | Rest, have snacks, and refuel before taking W3 and then N6 |
+| Djeniene Bourezg | Lunch stop before continuing to Béni Ounif |
+| Béni Ounif | Stay overnight at 2QX3+M7V Hotel, Cafe & Restaurant; restock water, supplies, and medicines at the pharmacy |
+| Béchar | Planned south-west route stop after Béni Ounif |
+| Taghit | Planned south-west route stop after Béchar |
+| Béni Abbès | Destination after Taghit; the group chose this route despite the detour from the original plan |
 | North Africa | Continue south using the Google Maps route |
 | Sahara Desert | Final destination |
 
@@ -46,12 +52,16 @@ The Google Maps link above is the source of truth for the overall route. The pla
 
 The required documents were prepared before departure. EU and Indian nationals each need a passport, Algerian visa, ferry ticket, vehicle registration, International Driving Permit, international insurance, owner-authorization letter if using a borrowed vehicle, and currency declaration. Indian passports may receive additional scrutiny.
 
-The group found the Algerian stops much farther apart than the Spain leg. Another group is travelling from Cairo via Algiers and is expected to join after about six hours of travel.
+The Egypt team, travelling from Cairo via Algiers, joined the group in El Bayadh two days later. The agreed route south-west is El Bayadh → Aïn Sefra → Béchar → Taghit → Béni Abbès.
+
+The group found the Algerian stops much farther apart than the Spain leg. Dry conditions made hydration essential; a couple of travellers experienced dehydration and nausea, but recovered after rest, medicines, and sufficient water in Béni Ounif. The town has medical support if it is needed.
+
+The group visited Scanner auto / Moto Bouamam in Béni Ounif, but it could not repair the Land Cruiser 300. A local guide or a workshop able to service a large SUV is needed before moving on.
 
 ## Current Status
 
-- **Current location:** Hôtel Nadjem, El Bayadh
-- **Next major leg:** Planning and reconnoitring the route to Béni Abbès
+- **Current location:** [Google Earth location](https://earth.google.com/web/@32.05012863,-1.24754515,829.53151874a,2730.27911406d,60y,134.62219038h,0t,0r/data=CgRCAggBMigKJgokCiAxc1BGU1cteUtvRmxTbWpUMFdOMU1DNnh1VlRmbEtvOCACOgMKATBCAggASgcI6MrdIBAB?authuser=0)
+- **Next major leg:** Arrange large-SUV repair support or a local guide, then continue through Béchar and Taghit to Béni Abbès
 - **Goal:** Reach and explore the Sahara Desert
 
 ## Update Template
